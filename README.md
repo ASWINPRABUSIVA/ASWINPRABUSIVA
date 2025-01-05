@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Weather-app<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Figma<br>💬 Ask me about Anime<br>
+🔭 I’m currently working on Portfolio<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Figma<br>💬 Ask me about Anime<br>
 
 
 ## 🌐 Socials:
